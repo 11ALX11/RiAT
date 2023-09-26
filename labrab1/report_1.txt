@@ -1,0 +1,13 @@
+
+Model Name: Workings of the Quill
+Definition: {This is test model, that define working of the Quill}
+Scope: {Common managment of the Quill buiseness: market research, component purchase, assembly, testing and selling of the products}
+Viewpoint: {Viewpoint: Direcrtor}
+Time Frame: (AS-IS)
+Status: WORKING
+Purpose: {Purpose: Do model current (AS-IS) buisness-procceses of the Quill}
+Source: {Materials of BPWin course}
+Author Name: 11_alx_11@ro.ru
+Creation Date: 12.09.2003
+System Last Revision Date: 26.09.2023
+User Last Revision Date: 26.09.2023
